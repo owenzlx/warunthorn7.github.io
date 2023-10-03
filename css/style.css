@@ -595,10 +595,12 @@ ul.conta_top li a {
 }
 
 .quality-box {
+     background: #fff;
      height: 262px;
      display: flex;
      align-items: center;
      justify-content: center;
+     border-radius: 50%;
      width: 100%;
      max-width: 262px;
      margin: 0 auto;
